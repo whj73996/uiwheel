@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/whj73996/uiwheel/issues"
   },
-  "homepage": "https://github.com/whj73996/uiwheel#readme"
+  "homepage": "https://github.com/whj73996/uiwheel#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
