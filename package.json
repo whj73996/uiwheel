@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/whj73996/uiwheel#readme",
   "dependencies": {
+    "git-open": "^2.1.0",
     "vue": "^2.6.12",
     "vue-hot-reload-api": "^2.3.4"
   },
@@ -31,6 +32,6 @@
     "vue-template-compiler": "^2.6.12"
   },
   "alias": {
-    "vue" : "./node_modules/vue/dist/vue.common.js"
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
