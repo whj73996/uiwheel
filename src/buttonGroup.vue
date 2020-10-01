@@ -9,7 +9,14 @@
     name: 'button-group',
     props: [],
     components: {},
-
+    mounted() {
+      for(let k of this.$el.children){
+        let name = k.nodeName.toLowerCase()
+        if(name!=='button'){
+          console.warn(`button-group的子元素必须是button,不建议使用${name}`)
+        }
+      }
+    }
   }
 </script>
 
