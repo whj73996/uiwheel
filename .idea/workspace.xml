@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
+    <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="单击按钮切换loading icon">
+      <change afterPath="$PROJECT_DIR$/src/buttonGroup.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1601438768182" duration="7279000" />
       <workItem from="1601464839992" duration="582000" />
       <workItem from="1601465431423" duration="5794000" />
-      <workItem from="1601527142397" duration="5057000" />
+      <workItem from="1601527142397" duration="9212000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601531771679</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="单击按钮切换loading icon">
+      <created>1601533229007</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601533229007</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,13 +129,15 @@
     <MESSAGE value="重构button.vue" />
     <MESSAGE value="给按钮加了ICON，并且用validator限制了用户传入iconPosition参数只能是left或者right" />
     <MESSAGE value="加上按钮loading icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上按钮loading icon" />
+    <MESSAGE value="单击按钮切换loading" />
+    <MESSAGE value="单击按钮切换loading icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="单击按钮切换loading icon" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601533004315">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601536720580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601533004315" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601536720580" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601402853035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -141,9 +150,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601403996342" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601444656516">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601536588863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601444656516" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601536588863" />
   </component>
 </project>
