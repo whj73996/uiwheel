@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buttonGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/buttonGroup.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1601464839992" duration="582000" />
       <workItem from="1601465431423" duration="5794000" />
       <workItem from="1601527142397" duration="9541000" />
-      <workItem from="1601543149298" duration="338000" />
+      <workItem from="1601543149298" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601538697994</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="在buttonGroup组件的 mounted（）中判断传入 子元素类型是否是button">
+      <created>1601543759913</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601543759913</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,13 +144,14 @@
     <MESSAGE value="单击按钮切换loading" />
     <MESSAGE value="单击按钮切换loading icon" />
     <MESSAGE value="button-group&#10;margin-left:-1 z-index=1 解决hover缺少边" />
-    <option name="LAST_COMMIT_MESSAGE" value="button-group&#10;margin-left:-1 z-index=1 解决hover缺少边" />
+    <MESSAGE value="在buttonGroup组件的 mounted（）中判断传入 子元素类型是否是button" />
+    <option name="LAST_COMMIT_MESSAGE" value="在buttonGroup组件的 mounted（）中判断传入 子元素类型是否是button" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601538697482">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601543759375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601538697482" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601543759375" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601402853035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
