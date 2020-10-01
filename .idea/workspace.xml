@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Icon.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +59,7 @@
       <workItem from="1601438768182" duration="7279000" />
       <workItem from="1601464839992" duration="582000" />
       <workItem from="1601465431423" duration="5794000" />
-      <workItem from="1601527142397" duration="1307000" />
+      <workItem from="1601527142397" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601465172435</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="给按钮加了ICON，并且用validator限制了用户传入iconPosition参数只能是left或者right">
+      <created>1601528561843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601528561843</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,13 +114,14 @@
     <MESSAGE value="完成按钮基本样式" />
     <MESSAGE value="安装parcel" />
     <MESSAGE value="重构button.vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构button.vue" />
+    <MESSAGE value="给按钮加了ICON，并且用validator限制了用户传入iconPosition参数只能是left或者right" />
+    <option name="LAST_COMMIT_MESSAGE" value="给按钮加了ICON，并且用validator限制了用户传入iconPosition参数只能是left或者right" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601465171823">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601528561147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601465171823" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601528561147" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601402853035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
