@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,8 @@
       <workItem from="1601464839992" duration="582000" />
       <workItem from="1601465431423" duration="5794000" />
       <workItem from="1601527142397" duration="9541000" />
-      <workItem from="1601543149298" duration="1878000" />
+      <workItem from="1601543149298" duration="2586000" />
+      <workItem from="1601611723323" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -128,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601543759913</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="安装chai">
+      <created>1601559787928</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601559787928</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,13 +156,14 @@
     <MESSAGE value="单击按钮切换loading icon" />
     <MESSAGE value="button-group&#10;margin-left:-1 z-index=1 解决hover缺少边" />
     <MESSAGE value="在buttonGroup组件的 mounted（）中判断传入 子元素类型是否是button" />
-    <option name="LAST_COMMIT_MESSAGE" value="在buttonGroup组件的 mounted（）中判断传入 子元素类型是否是button" />
+    <MESSAGE value="安装chai" />
+    <option name="LAST_COMMIT_MESSAGE" value="安装chai" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601543759375">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601559787381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601543759375" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601559787381" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601402853035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -164,6 +176,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601403996342" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601613025412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601613025412" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601536588863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
