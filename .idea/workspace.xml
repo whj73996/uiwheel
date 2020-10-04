@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uiwheel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiwheel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,8 @@
       <workItem from="1601638028570" duration="4885000" />
       <workItem from="1601650045414" duration="843000" />
       <workItem from="1601652325689" duration="426000" />
-      <workItem from="1601700678649" duration="2598000" />
+      <workItem from="1601700678649" duration="3494000" />
+      <workItem from="1601789111902" duration="2485000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -177,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601649855753</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="0.0.3">
+      <created>1601707442105</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601707442105</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,17 +210,18 @@
     <MESSAGE value="travis.yml配置文件" />
     <MESSAGE value="package.json更新 index.js" />
     <MESSAGE value="bump version" />
-    <option name="LAST_COMMIT_MESSAGE" value="bump version" />
+    <MESSAGE value="0.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="692" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601615020709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="692" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601615020709" />
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601649855203">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601707441555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601649855203" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601707441555" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601402853035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
