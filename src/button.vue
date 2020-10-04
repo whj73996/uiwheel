@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  import Icon from './svg'
+  import Icon from './Icon'
 
   export default {
     components:{
