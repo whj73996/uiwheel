@@ -1,6 +1,6 @@
 import Vue from  'vue'
 import Button from './button'
-import Icon from './Icon'
+import Icon from './svg'
 import buttonGroup from './buttonGroup'
 
 Vue.component('g-button',Button)
