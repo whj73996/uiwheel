@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f38a195-2794-403b-b0c8-a54bd75abfdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Icon.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buttonGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/buttonGroup.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/svg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
         <option value="Vuejs" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,7 +73,12 @@
       <workItem from="1601700678649" duration="3494000" />
       <workItem from="1601789111902" duration="8056000" />
       <workItem from="1601802393215" duration="652000" />
-      <workItem from="1601804645077" duration="726000" />
+      <workItem from="1601804645077" duration="1611000" />
+      <workItem from="1601872163743" duration="1252000" />
+      <workItem from="1601951705477" duration="2888000" />
+      <workItem from="1601957043000" duration="838000" />
+      <workItem from="1602049094739" duration="1590000" />
+      <workItem from="1602061187956" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary=".ignore">
       <created>1601403978285</created>
@@ -230,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601805236492</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="之前引入文件icon.js误写成svg.js">
+      <created>1601805632522</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601805632522</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +277,8 @@
     <MESSAGE value="travis.yml node bump" />
     <MESSAGE value="readme" />
     <MESSAGE value="将svg.js变为本地js文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="将svg.js变为本地js文件" />
+    <MESSAGE value="之前引入文件icon.js误写成svg.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="之前引入文件icon.js误写成svg.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="692" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601801860939">
@@ -270,10 +289,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1168" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601801853089" />
-    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601805235854">
+    <state x="560" y="65" key="CommitChangelistDialog2" timestamp="1601805632042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601805235854" />
+    <state x="560" y="65" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601805632042" />
     <state x="184" y="84" key="DiffContextDialog" timestamp="1601792588515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

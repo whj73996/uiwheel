@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'button-group',
+    name: 'Gulu-button-group',
     props: [],
     components: {},
     mounted() {
