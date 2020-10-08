@@ -37,10 +37,11 @@
 <body>
 <div id="app">
   <div class="box">
-    <g-input ></g-input>
+    <g-input v-model="message"></g-input>
+    <p>{{message}}</p>
     <g-input disabled value="ssadas"></g-input>
     <g-input read-only value="ssadassads" ></g-input>
-    <g-input value="sadasdasdasd"></g-input>
+    <g-input value="sadasdasdasd" @change="inputChange"></g-input>
   </div>
   <div class="box">
     <g-input value="sad" error="姓名不能少于两个字"></g-input>

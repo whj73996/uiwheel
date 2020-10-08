@@ -4,8 +4,9 @@
   "description": "UI",
   "main": "dist/index.js",
   "scripts": {
-    "start": "parcel src/index.html --no-cache",
+    "start": "npx parcel src/index.html --no-cache",
     "dev-test": "parcel watch test/* --no-cache & karma start",
+    "watch": "npx parcel watch test/* --no-cache",
     "test": "parcel build test/* --no-cache --no-minify && karma start --single-run"
   },
   "repository": {
